@@ -10,7 +10,7 @@
   python.method.call( py.object, py.method, ... )
 }
 \arguments{
-  \item{py.foo}{ rame of a Python function }
+  \item{py.foo}{ name of a Python function }
   \item{py.object}{ name of a Python object }
   \item{py.method}{ name of a method of such object }
   \item{...}{ R objects to pass as arguments to the Python function or method }
